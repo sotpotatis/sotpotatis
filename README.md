@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi!!!
 
-<!--
-**sotpotatis/sotpotatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![A full body picture of me](https://albins.website/static/albin-full-body.png)
 
-Here are some ideas to get you started:
+Who is this, you might ask? Well, I am **Albin**/**Sotpotatis**/**Sweet potato**/**Sötpotatis**/*a bunch of other names too (probably)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I shape the future! Born 2004, and speaks Python, MicroPython, HTML, Javascript, CSS, Ruby, Dart (soon), your favorite frameworks and libraries: Bootstrap, jQuery, Tailwind, Kivy, Matplotlib, Flask (to name a few), and general computer/electronics stuff: ESP32/ESP8266, Raspberry Pi, Apache, soldering. 
+
+### Want to learn more about me?
+
+➡Visit my [personal website](https://albins.website).
+➡Drop me [an email](mailto:albin@albins.website) ([encrypted, but checked less often](mailto:albinsmejladress@protonmail.com).
+➡Also check my [school website](https://20alse.stockholmscience.se) and my GitHub of course!
+
+
+#### Want to follow my learning curve?
+
+My beginner projects - following *a very limited amount to say it nicely* of development rules - can be found on William04A on GitHub: https://github.com/William04A
