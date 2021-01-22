@@ -9,8 +9,10 @@ I shape the future! Born 2004, and speaks Python, MicroPython, HTML, Javascript,
 ### Want to learn more about me?
 
 ➡Visit my [personal website](https://albins.website).
-➡Drop me [an email](mailto:albin@albins.website) ([encrypted, but checked less often](mailto:albinsmejladress@protonmail.com).
-➡Also check my [school website](https://20alse.stockholmscience.se) and my GitHub of course!
+
+➡Drop me [an email](mailto:albin@albins.website) (or an [encrypted one](mailto:albinsmejladress@protonmail.com), but I check those irregulary and less often).
+
+➡Also check my [school website](https://20alse.stockholmscience.se) and my GitHub of course (which you already are at)!
 
 
 #### Want to follow my learning curve?
