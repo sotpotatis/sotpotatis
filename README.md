@@ -4,7 +4,7 @@
 
 Who is this, you might ask? Well, I am **Albin**/**Sotpotatis**/**Sweet potato**/**Sötpotatis**/*a bunch of other names too*
 
-As far as technology goes: I shape the future! Born 2004, and speaks Python, MicroPython, HTML, Javascript, CSS, Ruby (soon), Dart (soon), your favorite frameworks and libraries: Bootstrap, jQuery, Tailwind, Kivy, Matplotlib, Flask (to name a few), and general computer/electronics stuff: ESP32/ESP8266, Raspberry Pi, Apache, soldering. I am also very keen on home automation and is experienced with Home Assistant and NodeRed as well as some tinkering around with ESPHome. I speak your favorite hardware and microcontrollers: PyCom, Raspberry Pi, D1 Mini, DigiSpark, etc.
+As far as technology goes: I shape the future! Born 2004, and speaks Python, MicroPython, HTML, Javascript, CSS, Ruby (workin' on it at least 😎), Dart (soon), your favorite frameworks and libraries: Bootstrap, jQuery, Tailwind, Kivy, Matplotlib, Flask (to name a few), and general computer/electronics stuff: ESP32/ESP8266, Raspberry Pi, Apache, soldering. I am also very keen on home automation and is experienced with Home Assistant and NodeRed as well as some tinkering around with ESPHome. I speak your favorite hardware and microcontrollers: PyCom, Raspberry Pi, D1 Mini, DigiSpark, etc.
 
 I am mostly experienced with Python and have done a lot in the language, from web apps to tray applications to tinkering on small ESP32s.
 
