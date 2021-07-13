@@ -19,4 +19,4 @@ I have also built my own server computer. The computer part picking site automat
 
 #### Want to follow my learning curve?
 
-My beginner projects - following *a very limited amount to say it nicely* of development rules - only kept for nostalgia - can be found on [William04A](https://github.com/William04A) on GitHub.
+My beginner projects - following *a very limited amount to say it nicely* of development rules - only kept for nostalgia - can be found on [William04A](https://github.com/William04A) on GitHub. You might occasionally find this account in commit messages in my repositories here too.
