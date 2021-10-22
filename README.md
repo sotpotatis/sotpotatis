@@ -2,7 +2,7 @@
 
 [![Sotpotatis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotpotatis)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sotpotatis's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotpotatis)](https://github.com/anuraghazra/github-readme-stats)
+<!--Temporarily hidden because Tailwind CSS messes a bit with these statistics lol [![Sotpotatis's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotpotatis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 Who is this, you might ask? Well, I am **Albin**/**Sotpotatis**/**Sweet potato**/**Sötpotatis**/*a bunch of other names too*
