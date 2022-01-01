@@ -1,27 +1,14 @@
+![Image of me](https://albins.website/static/albin-image.png)
+
 # Hi!!!
 
 [![Sotpotatis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotpotatis)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Temporarily hidden because Tailwind CSS messes a bit with these statistics lol [![Sotpotatis's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotpotatis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
+My name is Albin Seijmer. This is my GitHub, home to some of my programming projects. I'm 17 (soon 18) when I write this, but I'm born in January 2004, so do the math yourself :D
 
-Who is this, you might ask? Well, I am **Albin**/**Sotpotatis**/**Sweet potato**/**Sötpotatis**/*a bunch of other names too*
+I know multiple programming and markup languages, including Python, Javascript, C#, HTML, CSS, etc. I also know a lot about microcontrollers, embedded sensors, and I can and have built and tinkered around with computers in various form factors. I know PCB design, 3D modelling, and server deployment.
+I love APIs, both making and interacting with them. And, I do both backend and frontend development.
 
-As far as technology goes: I shape the future! Born 2004, and speaks Python, MicroPython, HTML, Javascript, CSS, Ruby (workin' on it at least 😎), Dart (soon), your favorite frameworks and libraries: Bootstrap, jQuery, Tailwind, Kivy, Matplotlib, Flask (to name a few), and general computer/electronics stuff: ESP32/ESP8266, Raspberry Pi, Apache, soldering. I am also very keen on home automation and is experienced with Home Assistant and NodeRed as well as some tinkering around with ESPHome. I speak your favorite hardware and microcontrollers: PyCom, Raspberry Pi, D1 Mini, DigiSpark, etc.
-
-I am mostly experienced with Python and have done a lot in the language, from web apps to tray applications to tinkering on small ESP32s.
-
-I have also built my own server computer. The computer part picking site automatically named my build "Dysfunctional Collie", although it works very well, so I call it simply "Collie", or "Albins Collie".
-
-### Want to learn more about me?
-
-➡Visit my [personal website](https://albins.website).
-
-➡Drop me [an email](mailto:albin@albins.website) - this address now is automatically attached to [ProtonMail](https://protonmail.com), which means that everything you send to me will be encrypted on my end, and very secure!
-
-➡Also check my [school website](https://20alse.stockholmscience.se) and my GitHub of course (which you already are at)!
-
-
-#### Want to follow my learning curve?
-
-My beginner projects - following *a very limited amount to say it nicely* of development rules - only kept for nostalgia - can be found on [William04A](https://github.com/William04A) on GitHub. You might occasionally find this account in commit messages in my repositories here too.
+**Learn everything about me on my personal website:** https://albins.website/
