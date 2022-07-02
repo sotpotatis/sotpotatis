@@ -1,14 +1,91 @@
-![Image of me](https://albins.website/static/albin-image.png)
+![Profile header](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/github_profile_header.png)
 
-# Hi!!!
+![Text](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/texts/about-me.png)
 
-[![Sotpotatis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotpotatis)](https://github.com/anuraghazra/github-readme-stats)
+**hello there!** my name is albin seijmer, and this is my github profile - the very amazing home to (at least some) of my code. if you know me, you know
+that i love to learn new things and experiment with new technologies. i want to use technology as a way to express and provide people with the things that
+they are looking for1
 
-<!--Temporarily hidden because Tailwind CSS messes a bit with these statistics lol [![Sotpotatis's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotpotatis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+![Text](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/texts/what-i-know.png)
+here is a list of some things that i know:
 
-My name is Albin Seijmer. This is my GitHub, home to some of my programming projects. I'm 17 (soon 18) when I write this, but I'm born in January 2004, so do the math yourself :D
+### programming languages
 
-I know multiple programming and markup languages, including Python, Javascript, C#, HTML, CSS, etc. I also know a lot about microcontrollers, embedded sensors, and I can and have built and tinkered around with computers in various form factors. I know PCB design, 3D modelling, and server deployment.
-I love APIs, both making and interacting with them. And, I do both backend and frontend development.
+* python
+* javascript
+* c#
+* bash
 
-**Learn everything about me on my personal website:** https://albins.website/
+### other languages
+
+* html
+* css
+* markdown
+* json & json5
+* toml
+* yaml
+* jinja
+* handlebars
+* svelte markup
+
+### libraries & frameworks
+* flask
+* django
+* django-rest
+* discord.py
+* tailwind css
+* bootstrap
+* svelte
+* handlebars
+* windows forms
+* monogame
+* express
+* fastapi
+* webpack
+
+### electronics
+* esp32
+* pycom
+* i2c
+* kicad
+* sensors
+* power optimization
+* soldering
+* pcb manufacturing
+
+### cloud
+* heroku
+* oracle cloud
+* digitalocean
+* pythonanywhere
+* netlify
+
+### other
+* 3d modelling & printing
+* home automation
+* home assistant
+* virtualization
+* computer building
+* mysql
+* postgresql
+* insomnia & postman
+
+![Text](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/texts/statistics.png)
+![sotpotatis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotpotatis&show_icons=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotpotatis&layout=compact&theme=solarized-light&hide=css)
+
+![Text](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/texts/pinned-repositories.png)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sotpotatis&repo=bleepbleepbleepstatuspage&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sotpotatis&repo=Last.FMDiscordRPC&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sotpotatis&repo=ssisrelateddiscordbot&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sotpotatis&repo=Huskoll-Python&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sotpotatis&repo=EateryCacher&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sotpotatis&repo=VolumioRPC&theme=solarized-light)
+
+
+![Text](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/texts/contact-me.png)
+
+* email: [albin@albins.website](mailto:albin@albins.website)
+* discord: `sötpotatis!#5212`
+
+also: make sure to learn everything about me on my personal website: https://albins.website/
