@@ -96,6 +96,6 @@ here is a list of some things that i know:
 
 also: make sure to learn everything about me on my personal website: https://albins.website/
 
-...and read my blog (posting very occasionally) on [![medium badge](https://img.shields.io/static/v1?logo=medium&message=medium&color=96b994&style=flat-square&label=)](https://medium.com/@sotpotatis): i'm posting as [@sotpotatis](https://medium.com/@sotpotatis)
+...and read my blog (posting very occasionally) on [![medium badge](https://img.shields.io/static/v1?logo=medium&message=medium&color=96b994&style=flat-square&label=)](https://medium.com/@sotpotatis): i'm posting as [@sotpotatis](https://medium.com/@sotpotatis).
 
 
