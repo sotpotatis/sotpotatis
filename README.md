@@ -1,8 +1,5 @@
-![Profile header](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/github_profile_header.png)
 
-![Text](https://raw.githubusercontent.com/sotpotatis/sotpotatis/main/texts/about-me.png)
-
-**hello there!** my name is albin seijmer, and this is my github profile - the very amazing home to (at least some) of my code. if you know me, you know
+**hello there!** this is my github profile - the very amazing home to (at least some) of my code. if you know me, you know
 that i love to learn new things and experiment with new technologies. i want to use technology as a way to express and provide people with the things that
 they are looking for!
 
